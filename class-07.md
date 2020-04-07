@@ -27,7 +27,8 @@ The name of the constructor function usually begins with a capital letter to rem
         return this.rooms = this.booked;
     };
     }
-}```
+}
+```
 This (it is a keyword)  
 Arrays are objects, and the key for each value is its index number.  
 
