@@ -19,7 +19,7 @@ The colspan  and rowspan attributes can be used on headers or table data to make
 ### JavaScript Chapter 3, 106-144
 Object constructors can use a function as a template for creating objects.  
 The name of the constructor function usually begins with a capital letter to remind developers to use the new keyword.  
-`function Hotel(name, rooms, booked) {
+```function Hotel(name, rooms, booked) {
     this.name = name;
     this.rooms = rooms;
     this.booked = booked;
@@ -27,7 +27,7 @@ The name of the constructor function usually begins with a capital letter to rem
         return this.rooms = this.booked;
     };
     }
-}`
+}```
 This (it is a keyword)  
 Arrays are objects, and the key for each value is its index number.  
 
