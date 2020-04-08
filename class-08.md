@@ -6,8 +6,8 @@
 <b>Fixed positioning</b> - a form of absolute positioning that does not affect the surrounding elements and does not move when the user scrolls.  
 <b>Floating element</b> - takes the element out of normal flow and becomes a block-level element that other content can flow aroud.  
 
-Boxes can overlap when you use relative, fixed, or absolute positioning.  
-The clear property allows you to say that no element with the same containing element should touch the left or right hand sides of a box.
-Fixed-Width Layouts vs Liquid Layouts  
-CSS Frameworks provides code for common tasks like creating layout grids.  
+* Boxes can overlap when you use relative, fixed, or absolute positioning.  
+* The clear property allows you to say that no element with the same containing element should touch the left or right hand sides of a box.  
+* Fixed-Width Layouts vs Liquid Layouts  
+* CSS Frameworks provides code for common tasks like creating layout grids.  
 960 Grid System (www.960.gs)  
